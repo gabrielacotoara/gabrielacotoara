@@ -89,3 +89,23 @@ I’ve also completed a wide range of specialized courses and professional certi
 - 💼 [LinkedIn](https://linkedin.com/in/gabrielacotoaraybarra)  
 - 💻 [GitHub](https://github.com/gabrielacotoara)
 - 🌐 [Website](https://gabrielacotoara.com) 
+
+<details>
+  <summary>🧰 Tech Stack</summary>
+  <br>
+
+| **Category**              | **Technologies**                                                                                                                                     |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🧑‍💻 Programming Languages     | ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) ![Regex](https://img.shields.io/badge/Regex-FFA500?style=for-the-badge) |
+| 🧠 Machine Learning & AI     | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black) |
+| 🏷️ Data Annotation & Labeling | ![Labelbox](https://img.shields.io/badge/Labelbox-0052CC?style=for-the-badge) ![CVAT](https://img.shields.io/badge/CVAT-FF9E0F?style=for-the-badge) ![Scale AI](https://img.shields.io/badge/ScaleAI-black?style=for-the-badge) ![Appen](https://img.shields.io/badge/Appen-EC1C24?style=for-the-badge) ![SRT](https://img.shields.io/badge/SRT-0066CC?style=for-the-badge) |
+| 🧪 Evaluation & Red Teaming | ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-critical?style=for-the-badge&logo=openai) ![AI Red Teaming](https://img.shields.io/badge/AI%20Red%20Teaming-red?style=for-the-badge&logo=security) |
+| 📊 Visualization & Dashboards | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| 🧰 Developer Tools & IDEs | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+| 🛠️ Project Management      | ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| 🌐 Localization & CAT Tools | ![Phrase](https://img.shields.io/badge/Phrase-CAT_Tool-00C2FF?style=for-the-badge) ![TransPerfect](https://img.shields.io/badge/TransPerfect-blue?style=for-the-badge) |
+| 🔁 Version Control & DevOps  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| 📚 Methodologies & Skills   | ![Scrum](https://img.shields.io/badge/Scrum%20Master-certified-brightgreen?style=for-the-badge) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-3366CC?style=for-the-badge) ![Content Moderation](https://img.shields.io/badge/Content%20Moderation-orange?style=for-the-badge) |
+| 🌍 Languages                | ![English](https://img.shields.io/badge/English-Native-lightgrey?style=for-the-badge) ![Romanian](https://img.shields.io/badge/Romanian-Native-lightgrey?style=for-the-badge) ![Spanish](https://img.shields.io/badge/Spanish-Limited_Proficiency-lightgrey?style=for-the-badge) ![Italian](https://img.shields.io/badge/Italian-Limited_Proficiency-lightgrey?style=for-the-badge) |
+
+</details>
