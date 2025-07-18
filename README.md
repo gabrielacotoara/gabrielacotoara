@@ -32,7 +32,7 @@ I’ve also completed a wide range of specialized courses and professional certi
 
 ---
 
-## 🚀 Projects I’m Working On
+<h4>🚀 Projects I’m Working On</h4>
 
 <details>
   <summary>🏷️ Data Annotation & Labeling for AI Models</summary>
@@ -83,7 +83,7 @@ I’ve also completed a wide range of specialized courses and professional certi
 </details>
 ---
 
-## 📫 Let’s Connect
+<h4>📬 Let’s Connect</h4>
 
 - 💼 [LinkedIn](https://linkedin.com/in/gabrielacotoaraybarra)  
 - 💻 [GitHub](https://github.com/gabrielacotoara)
