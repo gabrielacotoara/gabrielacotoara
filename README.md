@@ -94,7 +94,7 @@ I’ve also completed a wide range of specialized courses and professional certi
  ---
 
 
-  <summary>🧰 Tech Stack</summary>
+  ## 💻 Tech Stack
   
 **Category**              | **Technologies**                                                                                                                                     |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
