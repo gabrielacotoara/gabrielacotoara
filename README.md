@@ -9,30 +9,55 @@
 
 ## 🚀 Projects I’m Working On
 
-- 🏷️ **Data Annotation & Labeling for AI Models**  
+# 🚀 Projects I’m Working On
+
+<details>
+  <summary>🏷️ Data Annotation & Labeling for AI Models</summary>
+  <br>
   Annotating and labeling text, audio, and image data to train and validate machine learning models across domains.
+</details>
 
-- 🗣️ **Linguistic QA & Multilingual NLP**  
+<details>
+  <summary>🗣️ Linguistic QA & Multilingual NLP</summary>
+  <br>
   Supporting AI model performance through grammar evaluation, localization testing, and cross-language alignment.
+</details>
 
-- 🔐 **Prompt Injection & Red Teaming for LLMs**  
+<details>
+  <summary>🔐 Prompt Injection & Red Teaming for LLMs</summary>
+  <br>
   Crafting adversarial prompts to test model security, detect jailbreak vulnerabilities, and assess safety boundaries.
+</details>
 
-- 🧪 **LLM Output Auditing**  
+<details>
+  <summary>🧪 LLM Output Auditing</summary>
+  <br>
   Evaluating model responses for harmful content, factual errors, repetition, and instruction-following accuracy.
+</details>
 
-- 💬 **Conversational AI Fine-Tuning**  
+<details>
+  <summary>💬 Conversational AI Fine-Tuning</summary>
+  <br>
   Reviewing chatbot dialogue quality for tone, clarity, empathy, and human-likeness in customer-facing use cases.
+</details>
 
-- 🧠 **Few-Shot and Zero-Shot Prompt Engineering**  
+<details>
+  <summary>🧠 Few-Shot and Zero-Shot Prompt Engineering</summary>
+  <br>
   Designing optimized prompts for downstream NLP tasks using minimal examples, improving model adaptability.
+</details>
 
-- 🔍 **Bias & Fairness Testing in AI**  
+<details>
+  <summary>🔍 Bias & Fairness Testing in AI</summary>
+  <br>
   Conducting evaluations to identify and reduce bias across gender, ethnicity, and language in AI outputs.
+</details>
 
-- 🧾 **Instruction Tuning & Task Design**  
+<details>
+  <summary>🧾 Instruction Tuning & Task Design</summary>
+  <br>
   Writing and curating high-quality datasets for supervised instruction tuning across diverse tasks and model sizes.
-
+</details>
 ---
 
 ## 📫 Let’s Connect
