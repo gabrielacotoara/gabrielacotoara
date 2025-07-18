@@ -32,7 +32,7 @@ I’ve also completed a wide range of specialized courses and professional certi
 
 ---
 
-<h4>🚀 Projects I’m Working On</h4>
+<h4>📬 Let’s Connect</h4>
 
 <details>
   <summary>🏷️ Data Annotation & Labeling for AI Models</summary>
