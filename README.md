@@ -90,7 +90,10 @@ I’ve also completed a wide range of specialized courses and professional certi
 - 💻 [GitHub](https://github.com/gabrielacotoara)
 - 🌐 [Website](https://gabrielacotoara.com) 
 
- 
+
+ ---
+
+
   <summary>🧰 Tech Stack</summary>
   
 
