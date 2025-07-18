@@ -2,14 +2,34 @@
 
 🧠 I work in AI red teaming, prompt engineering, and multilingual NLP  
 📌 Experienced in training, evaluating, and securing large language models  
-🌍 Fluent in English & Romanian  
+🌍 Fluent in English & Romanian
+<details open>
+  <summary>🎓 Education & Certifications</summary>
+  <br>
+
+  - 🎓 Bachelor's Degree in **Business Administration**  
+  - 🛡️ Associate's Degree in **Cybersecurity**
+
+  I’ve also completed a wide range of specialized courses and professional certifications in:
+
+  - 🤖 Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning  
+  - 📊 Data Science, Data Analytics, and Data Literacy  
+  - 📈 Data Storytelling & Data Visualization  
+  - 📜 Professional Certificates and Badges from:  
+    - Meta  
+    - IBM  
+    - Google  
+    - Microsoft  
+    - Atlassian  
+
+  🔗 View my certificates here: [gabrielacotoara.com/certificates](https://gabrielacotoara.com/certificates)
+
+</details>
 🎣 Fishing is my offline debugging tool :)
 
 ---
 
 ## 🚀 Projects I’m Working On
-
-# 🚀 Projects I’m Working On
 
 <details>
   <summary>🏷️ Data Annotation & Labeling for AI Models</summary>
