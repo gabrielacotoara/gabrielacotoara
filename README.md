@@ -82,6 +82,8 @@ I’ve also completed a wide range of specialized courses and professional certi
   Writing and curating high-quality datasets for supervised instruction tuning across diverse tasks and model sizes.
 </details>
 
+👥 Team Leadership & Project Coordination in AI Workflows
+
 ---
 
 <h4>📬 Let’s Connect</h4>
