@@ -83,9 +83,9 @@ I’ve also completed a wide range of specialized courses and professional certi
 </details>
 
 <details>
-  <summary>👥 **Team Leadership & Project Coordination in AI Workflows**</summary>
+  <summary>👥 Team Leadership & Project Coordination in AI Workflows</summary>
   <br>
- I guide small teams, assign tasks, and ensure high-quality results across multilingual AI projects.
+ I guide small teams, assign tasks, and ensure high-quality results across AI projects.
 </details>
   
 
