@@ -95,8 +95,8 @@ I’ve also completed a wide range of specialized courses and professional certi
 
 - 💼 [LinkedIn](https://linkedin.com/in/gabrielacotoaraybarra)  
 - 💻 [GitHub](https://github.com/gabrielacotoara)
-- 🌐 [Website](https://gabrielacotoara.com) 
-
+- 🌐 [Website](https://gabrielacotoara.com)
+- 📬 [Newsletter](https://freelancepulse-ai.beehiiv.com/)
 
  ---
 
