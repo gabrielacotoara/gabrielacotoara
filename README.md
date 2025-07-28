@@ -108,15 +108,15 @@ I’ve also completed a wide range of specialized courses and professional certi
 | 🧑‍💻 Programming Languages     | ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) |
 | 🧠 Machine Learning & AI     | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black) |
 | 🏷️ Data Annotation & Labeling | 
-[![Labelbox](https://img.shields.io/badge/LABELBOX-0052CC?style=for-the-badge&logoColor=white)]()  
-[![CVAT](https://img.shields.io/badge/CVAT-F9A825?style=for-the-badge&logoColor=white)]()  
-[![Scale AI](https://img.shields.io/badge/SCALEAI-000000?style=for-the-badge&logoColor=white)]()  
-[![Appen](https://img.shields.io/badge/APPEN-E60012?style=for-the-badge&logoColor=white)]()  
-[![SRT](https://img.shields.io/badge/SRT-0052CC?style=for-the-badge&logoColor=white)]()  
-[![SuperAnnotate](https://img.shields.io/badge/SUPERANNOTATE-673AB7?style=for-the-badge&logoColor=white)]()  
-[![SageMaker Ground Truth](https://img.shields.io/badge/SAGEMAKER%20GROUND%20TRUTH-146EB4?style=for-the-badge&logo=amazonaws&logoColor=white)]()  
-[![Lionbridge AI](https://img.shields.io/badge/LIONBRIDGE%20AI-FF6F00?style=for-the-badge&logoColor=white)]()  
-[![TELUS AI](https://img.shields.io/badge/TELUS%20AI-6DB544?style=for-the-badge&logoColor=white)]()
+![Labelbox](https://img.shields.io/badge/LABELBOX-0052CC?style=for-the-badge&logoColor=white)  
+![CVAT](https://img.shields.io/badge/CVAT-F9A825?style=for-the-badge&logoColor=white)  
+![SCALE AI](https://img.shields.io/badge/SCALEAI-000000?style=for-the-badge&logoColor=white)  
+![APPEN](https://img.shields.io/badge/APPEN-E60012?style=for-the-badge&logoColor=white)  
+![SRT](https://img.shields.io/badge/SRT-0052CC?style=for-the-badge&logoColor=white)  
+![SUPERANNOTATE](https://img.shields.io/badge/SUPERANNOTATE-673AB7?style=for-the-badge&logoColor=white)  
+![SAGEMAKER GROUND TRUTH](https://img.shields.io/badge/SAGEMAKER%20GROUND%20TRUTH-146EB4?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![LIONBRIDGE AI](https://img.shields.io/badge/LIONBRIDGE%20AI-FF6F00?style=for-the-badge&logoColor=white)  
+![TELUS AI](https://img.shields.io/badge/TELUS%20AI-6DB544?style=for-the-badge&logoColor=white) |
 | 🧪 Evaluation & Red Teaming | ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-critical?style=for-the-badge&logo=openai) ![AI Red Teaming](https://img.shields.io/badge/AI%20Red%20Teaming-red?style=for-the-badge&logo=security) |
 | 📊 Visualization & Dashboards | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 | 🧰 Developer Tools & IDEs | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
