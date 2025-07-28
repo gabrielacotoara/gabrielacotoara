@@ -91,16 +91,7 @@ I’ve also completed a wide range of specialized courses and professional certi
 
 ---
 
-<h4>📬 Let’s Connect</h4>
-
-- 💼 [LinkedIn](https://linkedin.com/in/gabrielacotoaraybarra)  
-- 💻 [GitHub](https://github.com/gabrielacotoara)
-- 🌐 [Website](https://gabrielacotoara.com)
-- 📬 [Newsletter](https://freelancepulse-ai.beehiiv.com/)
-
- ---
-
-
+ 
 <h4>💻 Tech Stack</h4>
   
  | **Category**                  | **Technologies** |
@@ -116,3 +107,14 @@ I’ve also completed a wide range of specialized courses and professional certi
 | 🔁 Version Control & DevOps   | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | 📚 Methodologies & Skills     | ![Scrum Master](https://img.shields.io/badge/Scrum%20Master-CERTIFIED-brightgreen?style=for-the-badge) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-3366CC?style=for-the-badge) ![Content Moderation](https://img.shields.io/badge/Content%20Moderation-orange?style=for-the-badge) ![Regex](https://img.shields.io/badge/Regex-FFA500?style=for-the-badge) |
 | 🌍 Languages                  | ![English](https://img.shields.io/badge/English-Native-lightgrey?style=for-the-badge) ![Romanian](https://img.shields.io/badge/Romanian-Native-lightgrey?style=for-the-badge) ![Spanish](https://img.shields.io/badge/Spanish-Limited_Proficiency-lightgrey?style=for-the-badge) ![Italian](https://img.shields.io/badge/Italian-Limited_Proficiency-lightgrey?style=for-the-badge) |
+
+---
+<h4>📬 Let’s Connect</h4>
+
+- 💼 [LinkedIn](https://linkedin.com/in/gabrielacotoaraybarra)  
+- 💻 [GitHub](https://github.com/gabrielacotoara)
+- 🌐 [Website](https://gabrielacotoara.com)
+- 📬 [Newsletter](https://freelancepulse-ai.beehiiv.com/)
+
+ ---
+
