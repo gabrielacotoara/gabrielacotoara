@@ -1,7 +1,7 @@
 <h3>Hi there! 👋 I'm Irina Gabriela</h3>
 
 🧠 I work in AI red teaming, prompt engineering, and multilingual NLP  
-📌 Experienced in training, evaluating, and securing large language models  
+📌 Experienced in training, evaluating, and securing large language models | AI Super Agents Builder  
 🌍 Fluent in English & Romanian
 
 <details>
