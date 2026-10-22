@@ -1,8 +1,20 @@
 <h3>Hi there! 👋 I'm Irina Gabriela</h3>
 
-🧠 I work in AI red teaming, prompt engineering, and multilingual NLP  
-📌 Experienced in training, evaluating, and securing large language models | AI Super Agents Builder  
-🌍 Fluent in English & Romanian
+
+### AI ENGINEERING • AGENTS • EVALUATION • OPERATIONS
+
+# Building Intelligent Systems. Evaluating What Matters.
+
+**AI Agent Builder | LLM Evaluation Specialist | Multilingual AI | AI Operations & Leadership**
+
+![AI Agents](https://img.shields.io/badge/AI-Agent_Development-2563EB)
+![Model Quality](https://img.shields.io/badge/Model-Quality_%26_Safety-00897B)
+![Automation](https://img.shields.io/badge/Business-Automation-7C3AED)
+
+I design, build, and evaluate intelligent AI solutions that help businesses automate workflows, improve model quality, and deliver better user experiences.
+
+My work spans AI agents, intelligent websites, multilingual AI, LLM evaluation, red teaming, multimodal annotation, and AI operations.
+  
 
 <details>
   <summary>🎓 Education & Certifications</summary>
