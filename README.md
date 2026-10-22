@@ -14,6 +14,55 @@
 I design, build, and evaluate intelligent AI solutions that help businesses automate workflows, improve model quality, and deliver better user experiences.
 
 My work spans AI agents, intelligent websites, multilingual AI, LLM evaluation, red teaming, multimodal annotation, and AI operations.
+
+
+<h2 align="center">Featured AI Projects</h2>
+
+<p align="center">
+  Intelligent AI solutions for business automation,
+  customer engagement, and travel technology.
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/gabrielacotoara?tab=projects">
+        <img src="nexa-banner.jpg" width="100%" alt="NEXA AI Business Assistant">
+      </a>
+      <h3>NEXA</h3>
+      <strong>AI Business Assistant</strong>
+      <p>
+        Conversational AI for business inquiries,
+        lead qualification, multilingual assistance,
+        and intelligent workflow automation.
+      </p>
+      <p><strong>Focus:</strong> AI Agents, NLP,
+      Lead Qualification, Business Automation</p>
+      <a href="https://github.com/gabrielacotoara?tab=projects">
+        View NEXA Project
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/gabrielacotoara?tab=projects">
+        <img src="velyra-banner.jpg" width="100%" alt="VELYRA AI Travel Platform">
+      </a>
+      <h3>VELYRA</h3>
+      <strong>AI Travel Platform</strong>
+      <p>
+        AI-powered destination discovery,
+        personalized travel planning,
+        intelligent website design,
+        and travel booking integration development.
+      </p>
+      <p><strong>Focus:</strong> AI Travel,
+      Agent Development, APIs, Web Design</p>
+      <a href="https://github.com/gabrielacotoara?tab=projects">
+        View VELYRA Project
+      </a>
+    </td>
+  </tr>
+</table>
+
   
 
 <details>
