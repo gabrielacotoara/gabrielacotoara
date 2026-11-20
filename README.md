@@ -62,7 +62,11 @@ My work spans AI agents, intelligent websites, multilingual AI, LLM evaluation, 
     </td>
   </tr>
 </table>
+### Red AI Lab
 
+An interactive training platform for AI evaluation, red teaming, and data annotation. Explore free lessons and hands-on exercises.
+
+[Visit Red AI Lab](https://redailab.gabrielacotoara.com)
   
 
 <details>
