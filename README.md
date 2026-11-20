@@ -1,5 +1,6 @@
 <h3>Hi there! 👋 I'm Irina Gabriela</h3>
 
+- **[Red AI Lab](https://redailab.gabrielacotoara.com)** — An interactive training platform for AI evaluation, red teaming, and data annotation, with hands-on exercises and free lessons.
 
 ### AI ENGINEERING • AGENTS • EVALUATION • OPERATIONS
 
